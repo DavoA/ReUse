@@ -1,3 +1,4 @@
+name: Building
 on:
   workflow_call:
 
